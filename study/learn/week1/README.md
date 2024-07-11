@@ -2,7 +2,7 @@
 점프 투 파이썬 책을 기준으로 정리한 내용 입니다.
 
 ### 링크
-[점프 투 파이썬]("https://wikidocs.net/book/1")
+[점프 투 파이썬](https://wikidocs.net/book/1)
 <br>
 [스터디 1주차 정리 노션](https://www.notion.so/1-3a1057995a9b45ecabae5c24cdcde48e?pvs=4)
 
