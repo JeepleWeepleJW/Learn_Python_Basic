@@ -4,7 +4,7 @@
 ### 링크
 [점프 투 파이썬](https://wikidocs.net/book/1)
 <br>
-[스터디 1주차 정리 노션](https://www.notion.so/1-3a1057995a9b45ecabae5c24cdcde48e?pvs=4)
+[노션 - 파이썬 스터디 1주차 정리](https://www.notion.so/1-3a1057995a9b45ecabae5c24cdcde48e?pvs=4)
 
 ### 목차
 - Print() 사용법
