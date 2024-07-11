@@ -12,5 +12,5 @@
 
 ## 구성원
 
-| [<img src="https://avatars.githubusercontent.com/u/35950800?v=4" width="100px;"/><br />Jiwun Kim<sub><b></b></sub>](https://github.com/JeepleWeepleJW) |
-|:---:|
+| [<img src="https://avatars.githubusercontent.com/u/35950800?v=4" width="100px;"/><br />Jiwun Kim<sub><b></b></sub>](https://github.com/JeepleWeepleJW) | [<img src="https://avatars.githubusercontent.com/u/174224940?s=64&v=4" width="100px;"/><br />Jeongeunoooe<sub><b></b></sub>](https://github.com/Jeongeunoooe) |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
