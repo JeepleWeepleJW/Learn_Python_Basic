@@ -25,6 +25,25 @@ master : product용<br>
 develop : 각 사용자 및 스터디 자료 병합 및 정상 동작 테스트용<br>
 study : 스터디 자료 업로드용<br>
 
+## 패키지 구조
+
+- study : 스터디 자료
+    - learn : 학습 자료
+        - week1, week2 ... : 각 주차별 학습 자료
+    - test : 학습 주차별 코딩 테스트
+      - week1, week2 ... : 각 주차별 코딩 테스트
+- {사용자 이름 or 계정} : 스터디 구성원 폴더
+  - answers : 주차별 코딩 테스트 정답 보관하는 곳
+    - week1, week2 ... : 각 주차별 폴더
+      - quiz1, quiz2 ... : 각 주차별 문제 폴더 
+
+## 사용법
+
+1. 해당 repository fork
+2. 개인별 브랜치 생성성
+3. 코테푼터 develope로 pull request 요청, 이때 라벨은 CodeTest 사용
+4. 리뷰어는 jiwun or JeepleWeepleJW 로 선택
+
 ## 구성원
 
 | [<img src="https://avatars.githubusercontent.com/u/35950800?v=4" width="100px;"/><br />Jiwun Kim<sub><b></b></sub>](https://github.com/JeepleWeepleJW) | [<img src="https://avatars.githubusercontent.com/u/174224940?s=64&v=4" width="100px;"/><br />Jeongeunoooe<sub><b></b></sub>](https://github.com/Jeongeunoooe) |
